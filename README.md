@@ -1,2 +1,2 @@
-# SockShopPerformanceTest
-Sock Shop Performance Test
+# 对Sock Shop微服务应用进行性能测试
+旨在掌握性能测试的完整流程，包括场景设计、脚本编写、测试执行和结果分析。
